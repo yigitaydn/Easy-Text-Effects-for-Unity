@@ -15,7 +15,7 @@ The easiest way is to [install Easy Text Effects as a package](https://docs.unit
 3. Select **Add package from git URL** and paste the following URL:
 
 ```
-https://github.com/LeiQiaoZhi/Easy-Text-Effect.git
+https://github.com/LeiQiaoZhi/Easy-Text-Effects-for-Unity.git
 ```
 
 <img src="Images/package.png" width="30%">
